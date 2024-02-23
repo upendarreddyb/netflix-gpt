@@ -1,11 +1,9 @@
-import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="text-2xl text-green-800 text-center">
-      Namste everyone,we are creating netflix...!
-    </div> 
-  ); 
+   <Body/>
+  );
 }
 
 export default App;
